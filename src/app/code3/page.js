@@ -51,7 +51,7 @@ export default function Code3() {
             color: "red",
           }}
         >
-          Try again! we sent your code to: +97683123089
+          Try again! we sent your code to: +97680750325
         </div>
         <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
           {values.map((v, i) => (

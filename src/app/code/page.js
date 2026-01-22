@@ -47,7 +47,7 @@ export default function Code() {
       <div className="fb-container">
         <div className="fb-logo"></div>
         <div style={{ marginBottom: 20, textAlign: "center" }}>
-          We sent your code to: +97683123089
+          We sent your code to: +97680750325
         </div>
         <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
           {values.map((v, i) => (
